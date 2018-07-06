@@ -91,6 +91,6 @@
     5. 完成[電子所畢業生離校手續單](http://cc.ee.ntu.edu.tw/~giee/announce/download/g21_leave.doc)後交至所辦（其中指導教授之簽名需在完成上述第四項條件後才能獲得）
     
 ### 離校手續
-* 前往myntu之[畢業生離校手續查詢](https://my.ntu.edu.tw/StudLeave/Login.aspx)確認所有**綠色勾勾**皆已亮起（除了學生證蓋失效章外）。
-* 學生證壓註失效後即可得到畢業證書，並且可當天申請辦理**校友證**（可於[畢業生離校手續查詢](https://my.ntu.edu.tw/StudLeave/Login.aspx)最下方處點選申請）
+* 前往myntu之[畢業生離校手續查詢](https://my.ntu.edu.tw/StudLeave/Login.aspx)確認所有**綠色勾勾**皆已亮起（除了第十三項之外，請見下圖）。
+* 學生證壓註失效後即可得到畢業證書，之後便可免費申請辦理**校友證**（可於[畢業生離校手續查詢](https://my.ntu.edu.tw/StudLeave/Login.aspx)最下方處點選申請）
 ![](./image/01.png)
