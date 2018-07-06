@@ -56,11 +56,14 @@
     1. [學位考試申請書](http://my.ntu.edu.tw/)（請至myNTU填寫列印，需**指導教授**簽章）
     2. [成績審核表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g01_check_phd.doc)（需**指導教授**簽章）
     3. 歷年成績單（請自行至**研教組**申請）
-    4. [口試委員名冊](http://cc.ee.ntu.edu.tw/~giee/announce/download/g02_committee_phd.doc)（最遲請提前於**口試前兩週**送交所辦）
-    5. [博士論文研究說明書](http://cc.ee.ntu.edu.tw/~giee/announce/download/h01_PhDThesisDescription.doc)
-    6. [博士申請畢業指導教授推薦函](http://cc.ee.ntu.edu.tw/~giee/announce/download/h02_PhDRecommendLetter.doc)
-    7. [博士學位口試著作列表](http://cc.ee.ntu.edu.tw/~giee/announce/download/h04_PhDPublicationList.doc)
-    8. [電子所博士學位口試演講公告](http://cc.ee.ntu.edu.tw/~giee/announce/download/h03_PhDAnnounce.ppt)（非必要，若選擇公告則需繳一本論文初稿給所辦）
+    4. [博士論文研究說明書](http://cc.ee.ntu.edu.tw/~giee/announce/download/h01_PhDThesisDescription.doc)
+    5. 候選人正式發表之論文刊登本（如無刊登本，亦可用投稿本，但須附接受函）
+    6. 候選人履歷表（無格式限制）
+    7. [博士申請畢業指導教授推薦函](http://cc.ee.ntu.edu.tw/~giee/announce/download/h02_PhDRecommendLetter.doc)
+    8. [博士學位口試著作列表](http://cc.ee.ntu.edu.tw/~giee/announce/download/h04_PhDPublicationList.doc)
+    9. 論文初稿（或大綱）
+    10. [口試委員名冊](http://cc.ee.ntu.edu.tw/~giee/announce/download/g02_committee_phd.doc)（最遲請提前於**口試前兩週**送交所辦）
+    11. [電子所博士學位口試演講公告](http://cc.ee.ntu.edu.tw/~giee/announce/download/h03_PhDAnnounce.ppt)（非必要，若選擇公告則需繳一本論文初稿給所辦）
 * 若畢業關鍵之期刊論文已拿到Minor Revision的審核結果，可申請[論文點數預核](http://cc.ee.ntu.edu.tw/~giee/announce/download/h05_credit.doc)提早口試。
 * 如擬提前於學期中口試，並於學期中辦理離校手續者，需另附[提前畢業未修學分證明](http://gra103.aca.ntu.edu.tw/gra2007/gra/tienn/%E5%AD%B8%E4%BD%8D%E8%80%83%E8%A9%A6%E8%A1%A8%E5%86%8A/GRANOCREDIT.doc)，並請勿選專題討論及專題研究課程。（僅限確定要提前離校者）。若已選論文以外其他課程、又確定需提前離校者，需再另附[提前畢業註銷當學期修課申請書](http://gra103.aca.ntu.edu.tw/gra2007/gra/wu/delcurcou.doc)。
 
