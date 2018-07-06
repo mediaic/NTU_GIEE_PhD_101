@@ -94,4 +94,4 @@
 * 前往myntu之[畢業生離校手續查詢](https://my.ntu.edu.tw/StudLeave/Login.aspx)確認所有**綠色勾勾**皆已亮起（除了第十三項之外，請見下圖）
 * 學生證壓註失效後即可得到畢業證書，之後便可免費申請辦理**校友證**（可於[畢業生離校手續查詢](https://my.ntu.edu.tw/StudLeave/Login.aspx)最下方處點選申請）
 
-![](./image/01.png)
+    ![](./image/01.png)
