@@ -66,7 +66,7 @@
 ### 論文口試
 * 口試前準備工作：
     1. 完成[博士論文](https://github.com/mediaic/NTU_PhD_Dissertation)、
-    並印製論文初稿給自己、老師與口委們（若口試有選擇公告的話需再多印一本給所辦）
+    並印製**平裝版**論文初稿給自己、老師與口委們（若口試有選擇公告的話需再多印一本給所辦）
     2. 製作口試投影片、並安排實驗室內部之口試Rehearsal
     3. 借口試教室
     4. 張羅當日口委之**飲料**與**點心**（陋習）
@@ -74,19 +74,23 @@
     
 * 口試當日需攜帶：
     1. [口試委員審定書](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)（即論文簽名頁）
-    2. [學位論文考試評分表]()http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_thesis%20grade.doc（口試委員一人一份，包含指導教授）
-    3. [學位考試紀錄表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_oral%20record.doc)（一份）
-    4. 口試委員審查費領據
+    2. [學位論文考試評分表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_thesis%20grade.doc)（口試委員一人一份，包含指導教授，需要口委簽名）
+    3. [學位考試紀錄表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_oral%20record.doc)（一份，需要所有口委簽名）
+    4. 口試委員審查費領據（需要口委簽名）
     5. 論文初稿
     6. 紙本投影片（口試委員一人一份，包含指導教授）
     7. 口委之**飲料**與**點心**（陋習）
     8. 一名幫忙做**口試紀錄**之同學（[口試紀錄範本](./doc/defense_record.docx)）
 
 * 口試後收官：
-    1. 依照口委要求修改論文
-    2. 將論文
+    1. 依照口委建議修改論文
+    2. 在老師將[**口試紀錄**](./doc/defense_record.docx)、[**口試委員審定書**](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)、[**學位論文考試評分表**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_thesis%20grade.doc)、[**學位考試紀錄表**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_oral%20record.doc)、**口試委員審查費領據**交給所辦後，所辦確認後會請所長簽名，簽名完後的[**口試委員審定書**](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)需放在終版論文裡。
+    3. 印製**精裝版**論文終稿（圖書館需兩本，指導教授一本，實驗室一本，自己一本，因此最少需印**五本**）
+    4. 繳交兩本畢業論文至台大總圖
+    4. 完成[實驗室畢業生檢查清單](./doc/mediaic_check_list.docx)後交與老師
+    5. 完成[電子所畢業生離校手續單](http://cc.ee.ntu.edu.tw/~giee/announce/download/g21_leave.doc)後交至所辦（其中指導教授之簽名需在完成上述第四項條件後才能獲得）
     
 ### 離校手續
-* 口試後之收尾：
+* 前往myntu之[畢業生離校手續查詢](https://my.ntu.edu.tw/StudLeave/Login.aspx)確認所有**綠色勾勾**皆已亮起（除了學生證蓋失效章外）。
+* 學生證壓註失效後即可得到畢業證書，並且可當天申請辦理**校友證**（可於[畢業生離校手續查詢](https://my.ntu.edu.tw/StudLeave/Login.aspx)最下方處點選申請）
 ![](./image/01.png)
-    1. 
