@@ -66,12 +66,13 @@
 
 ### 論文口試
 * 口試前準備工作：
-    1. 完成[博士論文](https://github.com/mediaic/NTU_PhD_Dissertation)、
+    1. 盡早邀約口委確認大家可出席的時間交集（推薦使用[Google表單](https://goo.gl/forms/G67tAkNh5BzhgggY2)）
+    2. 完成[博士論文](https://github.com/mediaic/NTU_PhD_Dissertation)、
     並印製**平裝版**論文初稿給自己、老師與口委們（若口試有選擇公告的話需再多印一本給所辦）
-    2. 製作口試投影片、並安排實驗室內部之口試Rehearsal
-    3. 借口試教室
-    4. 張羅當日口委之**飲料**與**點心**（陋習）
-    5. **口試前一日**至電子所辦公室領取**口試委員審查費領據**
+    3. 製作口試投影片、並安排實驗室內部之口試Rehearsal
+    4. 借口試教室
+    5. 張羅當日口委之**飲料**與**點心**（陋習）
+    6. **口試前一日**至電子所辦公室領取**口試委員審查費領據**
     
 * 口試當日需攜帶：
     1. [口試委員審定書](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)（即論文簽名頁）
