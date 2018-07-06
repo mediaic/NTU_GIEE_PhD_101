@@ -49,7 +49,7 @@
 ### 申請畢業論文口試
 * 論文口試**申請期限**上學期為**11月30日**，下學期為**4月30日**。申請條件為：
     1. 已成為**博士候選人**。
-    2. **論文點數**達標。（請參考[博士論文計點辦法](http://cc.ee.ntu.edu.tw/~giee/regulation/01_4_PhDPaperPoints_10601.pdf)，並注意**電子所**有項**內規**是必須至少要有一篇**[傑出期刊](http://app.bebi.ntu.edu.tw/doc/download/105%e5%b9%b4%e5%ba%a6%e5%82%91%e5%87%ba%e6%9c%9f%e5%88%8a%e8%ab%96%e6%96%87%e6%b8%85%e5%86%8a(%e4%be%9d%e5%88%8a%e5%90%8d%e5%ad%97%e6%af%8d%e6%8e%92%e5%ba%8f).pdf)**或**[優良期刊](http://app.bebi.ntu.edu.tw/doc/download/105%e5%b9%b4%e5%ba%a6%e5%84%aa%e8%89%af%e6%9c%9f%e5%88%8a%e8%ab%96%e6%96%87%e6%b8%85%e5%86%8a(%e4%be%9d%e5%88%8a%e5%90%8d%e5%ad%97%e6%af%8d%e6%8e%92%e5%ba%8f).pdf)**之論文，但若已獲得本所[學生傑出研究獎](http://cc.ee.ntu.edu.tw/~giee/announce/download/f01_outstanding.doc)者可無視此內規。）
+    2. **論文點數**達標。（請參考[博士論文計點辦法](http://cc.ee.ntu.edu.tw/~giee/regulation/01_4_PhDPaperPoints_10601.pdf)，並注意**電子所**有項**內規**是必須至少要有一篇[**傑出期刊**](http://app.bebi.ntu.edu.tw/doc/download/105%e5%b9%b4%e5%ba%a6%e5%82%91%e5%87%ba%e6%9c%9f%e5%88%8a%e8%ab%96%e6%96%87%e6%b8%85%e5%86%8a(%e4%be%9d%e5%88%8a%e5%90%8d%e5%ad%97%e6%af%8d%e6%8e%92%e5%ba%8f).pdf)或[**優良期刊**](http://app.bebi.ntu.edu.tw/doc/download/105%e5%b9%b4%e5%ba%a6%e5%84%aa%e8%89%af%e6%9c%9f%e5%88%8a%e8%ab%96%e6%96%87%e6%b8%85%e5%86%8a(%e4%be%9d%e5%88%8a%e5%90%8d%e5%ad%97%e6%af%8d%e6%8e%92%e5%ba%8f).pdf)之論文，但若已獲得本所[學生傑出研究獎](http://cc.ee.ntu.edu.tw/~giee/announce/download/f01_outstanding.doc)者可無視此內規。）
 * 預定畢業同學，選課時務必選**博士論文**（課程編號為943 D0010）。若不幸忘了選，請洽詢研教組補選。
 * 請於**申請期限內**、**口試前一個月**繳交下列資料，以辦理學位考試申請手續：
     1. [學位考試申請書](http://my.ntu.edu.tw/)（請至myNTU填寫列印，需**指導教授**簽章）
