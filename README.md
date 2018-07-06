@@ -63,7 +63,7 @@
     8. [博士學位口試著作列表](http://cc.ee.ntu.edu.tw/~giee/announce/download/h04_PhDPublicationList.doc)
     9. 論文初稿（或大綱）
     10. [口試委員名冊](http://cc.ee.ntu.edu.tw/~giee/announce/download/g02_committee_phd.doc)（最遲請提前於**口試前兩週**送交所辦）
-    11. [電子所博士學位口試演講公告](http://cc.ee.ntu.edu.tw/~giee/announce/download/h03_PhDAnnounce.ppt)（非必要，若選擇公告則需繳一本論文初稿給所辦）
+    11. [電子所博士學位口試演講公告](http://cc.ee.ntu.edu.tw/~giee/announce/download/h03_PhDAnnounce.ppt)（非必要，若選擇公告則需繳一本**論文初稿**給所辦）
 * 若畢業關鍵之期刊論文已拿到Minor Revision的審核結果，可申請[論文點數預核](http://cc.ee.ntu.edu.tw/~giee/announce/download/h05_credit.doc)提早口試。
 * 如擬提前於學期中口試，並於學期中辦理離校手續者，需另附[提前畢業未修學分證明](http://gra103.aca.ntu.edu.tw/gra2007/gra/tienn/%E5%AD%B8%E4%BD%8D%E8%80%83%E8%A9%A6%E8%A1%A8%E5%86%8A/GRANOCREDIT.doc)，並請勿選專題討論及專題研究課程。（僅限確定要提前離校者）。若已選論文以外其他課程、又確定需提前離校者，需再另附[提前畢業註銷當學期修課申請書](http://gra103.aca.ntu.edu.tw/gra2007/gra/wu/delcurcou.doc)。
 
