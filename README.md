@@ -33,9 +33,9 @@
 
 * **基本科目**須選考二門，計有四門可以選考（分數計算公式另訂）：
     1. 工程數學：線性代數、微分方程、離散數學、複變、機率與統計（五選二）
-    2. 電路學及信號與系統
-    3. 電子學
-    4. 計算機科學：演算法、計算機概論、資料結構（三選二）
+    1. 電路學及信號與系統
+    1. 電子學
+    1. 計算機科學：演算法、計算機概論、資料結構（三選二）
 
 * **本所科目**須選考三門，並限**電子所課表五年內科目**。
 
@@ -45,55 +45,55 @@
 
 * 博士班學生具下列二項條件者，經指導教授同意後，得為**博士候選人**：
     1. 完成博士學位**應修課程**。
-    2. 通過博士學位**資格考**。
+    1. 通過博士學位**資格考**。
 
 ### 申請畢業論文口試
 * 論文口試**申請期限**上學期為**11月30日**，下學期為**4月30日**。申請條件為：
     1. 已成為**博士候選人**。
-    2. **論文點數**達標。（請參考[博士論文計點辦法](http://cc.ee.ntu.edu.tw/~giee/regulation/01_4_PhDPaperPoints_10601.pdf)，並注意**電子所**有項**內規**是必須至少要有一篇[**傑出期刊**](http://app.bebi.ntu.edu.tw/doc/download/105%e5%b9%b4%e5%ba%a6%e5%82%91%e5%87%ba%e6%9c%9f%e5%88%8a%e8%ab%96%e6%96%87%e6%b8%85%e5%86%8a(%e4%be%9d%e5%88%8a%e5%90%8d%e5%ad%97%e6%af%8d%e6%8e%92%e5%ba%8f).pdf)或[**優良期刊**](http://app.bebi.ntu.edu.tw/doc/download/105%e5%b9%b4%e5%ba%a6%e5%84%aa%e8%89%af%e6%9c%9f%e5%88%8a%e8%ab%96%e6%96%87%e6%b8%85%e5%86%8a(%e4%be%9d%e5%88%8a%e5%90%8d%e5%ad%97%e6%af%8d%e6%8e%92%e5%ba%8f).pdf)之論文，但若已獲得本所[學生傑出研究獎](http://cc.ee.ntu.edu.tw/~giee/announce/download/f01_outstanding.doc)者可無視此內規。）
+    1. **論文點數**達標。（請參考[博士論文計點辦法](http://cc.ee.ntu.edu.tw/~giee/regulation/01_4_PhDPaperPoints_10601.pdf)，並注意**電子所**有項**內規**是必須至少要有一篇[**傑出期刊**](http://app.bebi.ntu.edu.tw/doc/download/105%e5%b9%b4%e5%ba%a6%e5%82%91%e5%87%ba%e6%9c%9f%e5%88%8a%e8%ab%96%e6%96%87%e6%b8%85%e5%86%8a(%e4%be%9d%e5%88%8a%e5%90%8d%e5%ad%97%e6%af%8d%e6%8e%92%e5%ba%8f).pdf)或[**優良期刊**](http://app.bebi.ntu.edu.tw/doc/download/105%e5%b9%b4%e5%ba%a6%e5%84%aa%e8%89%af%e6%9c%9f%e5%88%8a%e8%ab%96%e6%96%87%e6%b8%85%e5%86%8a(%e4%be%9d%e5%88%8a%e5%90%8d%e5%ad%97%e6%af%8d%e6%8e%92%e5%ba%8f).pdf)之論文，但若已獲得本所[學生傑出研究獎](http://cc.ee.ntu.edu.tw/~giee/announce/download/f01_outstanding.doc)者可無視此內規。）
 * 預定畢業同學，選課時務必選**博士論文**（課程編號為943 D0010）。若不幸忘了選，請洽詢研教組補選。
 * 請於**申請期限內**、**口試前一個月**繳交下列資料至所辦，以辦理學位考試申請手續：
     1. [學位考試申請書](http://my.ntu.edu.tw/)（請至myNTU填寫列印，需**指導教授**簽章）
-    2. [成績審核表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g01_check_phd.doc)（需**指導教授**簽章）
-    3. 歷年成績單（請自行至**研教組**申請）
-    4. [博士論文研究說明書](http://cc.ee.ntu.edu.tw/~giee/announce/download/h01_PhDThesisDescription.doc)
-    5. 候選人正式發表之論文刊登本（如無刊登本，亦可用投稿本，但須附接受函）
-    6. 候選人履歷表（無格式限制）
-    7. [博士申請畢業指導教授推薦函](http://cc.ee.ntu.edu.tw/~giee/announce/download/h02_PhDRecommendLetter.doc)
-    8. [博士學位口試著作列表](http://cc.ee.ntu.edu.tw/~giee/announce/download/h04_PhDPublicationList.doc)
-    9. 論文初稿（或大綱）
-    10. [口試委員名冊](http://cc.ee.ntu.edu.tw/~giee/announce/download/g02_committee_phd.doc)（最遲請提前於**口試前兩週**送交所辦）
-    11. [電子所博士學位口試演講公告](http://cc.ee.ntu.edu.tw/~giee/announce/download/h03_PhDAnnounce.ppt)（非必要，若選擇公告則需繳一本**論文初稿**給所辦）
+    1. [成績審核表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g01_check_phd.doc)（需**指導教授**簽章）
+    1. 歷年成績單（請自行至**研教組**申請）
+    1. [博士論文研究說明書](http://cc.ee.ntu.edu.tw/~giee/announce/download/h01_PhDThesisDescription.doc)
+    1. 候選人正式發表之論文刊登本（如無刊登本，亦可用投稿本，但須附接受函）
+    1. 候選人履歷表（無格式限制）
+    1. [博士申請畢業指導教授推薦函](http://cc.ee.ntu.edu.tw/~giee/announce/download/h02_PhDRecommendLetter.doc)
+    1. [博士學位口試著作列表](http://cc.ee.ntu.edu.tw/~giee/announce/download/h04_PhDPublicationList.doc)
+    1. 論文初稿（或大綱）
+    1. [口試委員名冊](http://cc.ee.ntu.edu.tw/~giee/announce/download/g02_committee_phd.doc)（最遲請提前於**口試前兩週**送交所辦）
+    1. [電子所博士學位口試演講公告](http://cc.ee.ntu.edu.tw/~giee/announce/download/h03_PhDAnnounce.ppt)（非必要，若選擇公告則需繳一本**論文初稿**給所辦）
 * 若畢業關鍵之期刊論文已拿到Minor Revision的審核結果，可申請[論文點數預核](http://cc.ee.ntu.edu.tw/~giee/announce/download/h05_credit.doc)提早口試。
 * 如擬提前於學期中口試，並於學期中辦理離校手續者，需另附[提前畢業未修學分證明](http://gra103.aca.ntu.edu.tw/gra2007/gra/tienn/%E5%AD%B8%E4%BD%8D%E8%80%83%E8%A9%A6%E8%A1%A8%E5%86%8A/GRANOCREDIT.doc)，並請勿選專題討論及專題研究課程。（僅限確定要提前離校者）。若已選論文以外其他課程、又確定需提前離校者，需再另附[提前畢業註銷當學期修課申請書](http://gra103.aca.ntu.edu.tw/gra2007/gra/wu/delcurcou.doc)。
 
 ### 論文口試
 * 口試前準備工作：
     1. 盡早邀約口委，詢問口委們可出席的時間並找出交集（推薦使用Google表單，可參考此[範本](https://goo.gl/forms/G67tAkNh5BzhgggY2)）
-    2. 完成[**博士論文**](https://github.com/mediaic/NTU_PhD_Dissertation)，
-    並印製**平裝版**論文初稿給自己、老師與口委們（若口試有選擇公告的話需再多印一本給所辦）
-    3. 製作口試投影片、並安排實驗室內部之口試Rehearsal
-    4. 借口試教室
-    5. 張羅當日口委之**飲料**與**點心**（陋習）
-    6. **口試前一日**至電子所辦公室領取**口試委員審查費領據**
+    1. 完成[**博士論文**](https://github.com/mediaic/NTU_PhD_Dissertation)，並印製**平裝版**論文初稿給自己、老師與口委們（若口試有選擇公告的話需再多印一本給所辦）
+    1. 製作口試投影片、並安排實驗室內部之口試Rehearsal
+    1. 借口試教室
+    1. 張羅當日口委之**飲料**與**點心**（陋習）
+    1. **口試前一日**至電子所辦公室領取**口試委員審查費領據**
     
 * 口試當日需攜帶：
     1. [口試委員審定書](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)（即論文簽名頁）
-    2. [學位論文考試評分表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_thesis%20grade.doc)（口試委員一人一份，包含指導教授，需要口委簽名）
-    3. [學位考試紀錄表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_oral%20record.doc)（一份，需要所有口委簽名）
-    4. 口試委員審查費領據（需要口委簽名）
-    5. 論文初稿
-    6. 紙本投影片（口試委員一人一份，包含指導教授）
-    7. 口委之**飲料**與**點心**（陋習）
-    8. 一名幫忙做**口試紀錄**之同學（[口試紀錄範本](./doc/defense_record.docx)）
+    1. [學位論文考試評分表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_thesis%20grade.doc)（口試委員一人一份，包含指導教授，需要口委簽名）
+    1. [學位考試紀錄表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_oral%20record.doc)（一份，需要所有口委簽名）
+    1. 口試委員審查費領據（需要口委簽名）
+    1. 論文初稿
+    1. 紙本投影片（口試委員一人一份，包含指導教授）
+    1. 口委之**飲料**與**點心**（陋習）
+    1. 一名幫忙做**口試紀錄**之同學（[口試紀錄範本](./doc/defense_record.docx)）
 
 * 口試後收官：
     1. 依照口委建議修改論文
-    2. 在老師將[**口試紀錄**](./doc/defense_record.docx)、[**口試委員審定書**](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)、[**學位論文考試評分表**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_thesis%20grade.doc)、[**學位考試紀錄表**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_oral%20record.doc)、**口試委員審查費領據**交給所辦、所辦確認沒問題後會請**所長**簽名，簽名完後的[**口試委員審定書**](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)需放在終版論文裡。
-    3. 印製**黑底**燙金之**精裝版**論文終稿（圖書館需兩本，指導教授一本，實驗室一本，自己一本，因此最少需印**五本**）
-    4. 繳交兩本畢業論文至台大總圖
-    5. 完成[**實驗室畢業生檢查清單**](./doc/mediaic_check_list.docx)後交與老師
-    6. 完成[**電子所畢業生離校手續單**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g21_leave.doc)後交至所辦
+    1. 在老師將[**口試紀錄**](./doc/defense_record.docx)、[**口試委員審定書**](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)、[**學位論文考試評分表**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_thesis%20grade.doc)、[**學位考試紀錄表**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g03_oral%20record.doc)、**口試委員審查費領據**交給所辦、所辦確認沒問題後會請**所長**簽名，簽名完後的[**口試委員審定書**](https://github.com/mediaic/NTU_PhD_Dissertation/raw/master/doc/Approval.docx)需放在終版論文裡。
+    1. 完成最終版論文後，請至[**電子學位論文服務系統**](http://etds.lib.ntu.edu.tw/etdsystem/submit/submitLogin)上傳電子學位論文請圖書館審核，確認審核過後再印製論文（詳細流程可參考圖書館之之[**畢業離校及論文繳交**](http://www.lib.ntu.edu.tw/node/103)）。除了論文本體之PDF檔之外，還需上傳[**大綱**](./doc/Outline.txt)、[**關鍵字**](./doc/Keyword.txt)、[**參考文獻**](./doc/Reference.txt)等文字檔；參考文獻文字檔中每條line代表一文獻，不需再另加文獻編號（上傳後[**系統**](http://www.airitilibrary.com/Search/alThesisbrowse?FirstID=U0001&type=Dissertations&changeColor=CU0001)會自動插入編號）。
+    1. 印製**黑底**燙金之**精裝版**論文終稿（圖書館需兩本，指導教授一本，實驗室一本，自己一本，因此最少需印**五本**）
+    1. 繳交兩本畢業論文至台大總圖
+    1. 完成[**實驗室畢業生檢查清單**](./doc/mediaic_check_list.docx)後交與老師
+    1. 完成[**電子所畢業生離校手續單**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g21_leave.doc)後交至所辦
     
 ### 離校手續
 * 前往myntu之[畢業生離校手續查詢](https://my.ntu.edu.tw/StudLeave/Login.aspx)確認所有**綠色勾勾**皆已亮起（除了第十三項之外，請見下圖）
