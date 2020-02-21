@@ -93,7 +93,7 @@
     1. 印製**黑底**燙金之**精裝版**論文終稿（圖書館需兩本，指導教授一本，實驗室一本，自己一本，因此最少需印**五本**），**精裝版論文印製工作需要三個工作天**（不含送件當日，不含假日）
     1. 繳交兩本畢業論文至台大總圖
     1. 完成[**實驗室畢業生檢查清單**](./doc/mediaic_check_list.docx)後交與老師
-    1. 完成[**電子所畢業生離校手續單**](http://cc.ee.ntu.edu.tw/~giee/announce/download/g21_leave.doc)後交至所辦
+    1. 線上完成[**電子所畢業生離校手續單**](https://giee.ntu.edu.tw/portal/msys/login.php)，請於完成口試後再登入電子所網頁提出申請，指導教授approve後，才會開放離校手續功能。
     
 ### 離校手續
 * 前往myntu之[畢業生離校手續查詢](https://my.ntu.edu.tw/StudLeave/Login.aspx)確認所有**綠色勾勾**皆已亮起（除了第十三項之外，請見下圖）
